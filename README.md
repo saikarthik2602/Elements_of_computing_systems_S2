@@ -22,4 +22,6 @@
 --> The input jack file should not contain multiple statements in a single line because this parser 
 		cannot handle multiple statements in a single line.
 
---> Make sure that both the files named Main2.jack and Parser_final.cpp must be in the same directory.
+--> Make sure that both the files named Main2.jack,Main3.jack and Parser_final.cpp must be in the same directory.
+
+--> Main3.jack is the jack file with no subroutines and Main2.jack is the jack file with subroutines.
